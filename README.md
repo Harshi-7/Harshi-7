@@ -25,8 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Information Technology** underg
 ## 💡 Current Interests
 
 - 🔍 AI/ML Research  
-- 🌐 Backend Development (Kenko AI role)  
-- 🛠️ Building real-world solutions with Microsoft and Azure technologies  
+- 🌐 Backend Development 
 - 🚀 Hackathons: Exploring supply chain management and autonomous agents  
 
 ---
@@ -43,8 +42,3 @@ Welcome to my GitHub profile! I'm a passionate **Information Technology** underg
 
 - 💼 **LinkedIn:** [Bharadi Harshitha](https://www.linkedin.com/in/bharadi-harshitha/)    
 - 📧 **Email:** harshithabharadi@gmail.com  
-
----
-
-🌟 *"Keep learning, keep growing!"* 🌟
-
