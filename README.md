@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Information Technology** underg
   - **Web Development:** HTML, CSS, JavaScript  
   - **Machine Learning:** TensorFlow, Keras, Scikit-Learn  
   - **Networking:** TCP/IP, Routing, Network Security  
-  - **Tools:** Microsoft Fabric, Azure SQL, MLflow  
+  - **Tools:**  MLflow  
   - **Version Control:** Git, GitHub  
 - 💻 **Specialized In:**  
   - Building Machine Learning models  
